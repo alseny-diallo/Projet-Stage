@@ -2,8 +2,7 @@
 Projet-Stage est un projet de conception et implémenter de l'état civil d'une mairie
 # Pour commencer
 Telecharger tout le contenu du projet
-
-git clone https://github.com/alseny-diallo/Projet-Stage 
+git clone https://github.com/alseny-diallo/Projet-Stage.git
 # Mettre à jour son depot local
 git pull origin master
 # Comment ça marche?
